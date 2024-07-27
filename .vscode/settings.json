@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    // extension name : html
+    "*.ejs": "html",
+    "*.js": "html"
+  },
+  "editor.formatOnSave": false,
+
+  "git.ignoreLimitWarning": true
+}
